@@ -7,8 +7,4 @@ HW3/COMPOSITING
 
 HW4/CONVOLUTION FILTERS
 
-![Alt text](back.jpg/?raw=true "back ground")
-![Alt text](back.jpg/?raw=true "back ground")
-![Alt text](back.jpg/?raw=true "back ground")
-![Alt text](back.jpg/?raw=true "back ground")
-
+![Alt text](hw4/ConvolutionFilters/html/square.png/?raw=true "original")![Alt text](hw4/ConvolutionFilters/html/square-hp.png/?raw=true "hp filter")

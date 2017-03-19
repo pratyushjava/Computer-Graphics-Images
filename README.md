@@ -7,4 +7,5 @@ HW3/COMPOSITING
 
 HW4/CONVOLUTION FILTERS
 
-![Alt text](images/square.png/?raw=true "original")![Alt text](images/square-hp.png/?raw=true "hp filter")
+![Alt text](images/square.png/?raw=true "original")![Alt text](images/square-hp.png/?raw=true "hp filter")![Alt text](images/square-horiz.png/?raw=true "hp filter")![Alt text](images/square-vert.png/?raw=true "hp filter")
+![Alt text](images/squares.png/?raw=true "original")![Alt text](images/squares-horiz.png/?raw=true "hp filter")![Alt text](images/squares-hp.png/?raw=true "hp filter")![Alt text](images/squares-vert.png/?raw=true "hp filter")

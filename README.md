@@ -7,4 +7,4 @@ HW3/COMPOSITING
 
 HW4/CONVOLUTION FILTERS
 
-![Alt text](hw4/Convolution_Filters/html/square.png/?raw=true "original")![Alt text](hw4/Convolution_Filters/html/squares-hp.png/?raw=true "hp filter")
+![Alt text](images/square.png/?raw=true "original")![Alt text](images/square-hp.png/?raw=true "hp filter")

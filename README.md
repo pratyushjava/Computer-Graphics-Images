@@ -51,5 +51,14 @@
 **Bileanear**  
 ![Alt text](images/bchs2p001005.png/?raw=true "original")  
 
+**HW7/Clean Warps**  
+**original**  
+![Alt text](images/construction.png/?raw=true "original")  
+**Warped Image Before Cleaning and after Cleaning**  
+**okWarp Left Image is before clean and right image is after clean u = sqrt(x) , v = 0.5 * (1 + sin(y * 3.1415926536))**
+![Alt text](images/warp1.png/?raw=true "original")  
+**normal Left Image is before clean and right image is after clean u = pow(x, 0.25) , v = pow(sin(3.14 * 0.5 * y), 2)**
+![Alt text](images/warp2.png/?raw=true "original")  
+
 
 

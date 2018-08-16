@@ -35,29 +35,49 @@
 **Flip 1 -1**  
 ![Alt text](images/dhflipy.png/?raw=true "original")  
 **shear 2 0**  
+
 ![Alt text](images/dhshearx2.png/?raw=true "original")  
 **shear 0 2**  
+
 ![Alt text](images/dhshearxy2.png/?raw=true "original")  
 **perspective 0.001 0.005**  
+
 ![Alt text](images/dhp001005.png/?raw=true "original")  
+
 **h(1.5(t(50(s(0.8(r(20)))))))**  
+
 ![Alt text](images/dhr20s08t50h105.png/?raw=true "original")  
+
 **Original Image**  
+
 ![Alt text](images/checker.jpg/?raw=true "original")  
+
 **p 0.001 0.005**  
-![Alt text](images/bchp001005.png/?raw=true "original")  
+
+![Alt text](images/bchp001005.png/?raw=true "original") 
+
 **Perspective**  
+
 ![Alt text](images/bchs2p001005.png/?raw=true "original")  
+
 **Bileanear**  
+
 ![Alt text](images/bchs2p001005.png/?raw=true "original")  
 
 **HW7/Clean Warps**  
+
 **original**  
+
 ![Alt text](images/construction.png/?raw=true "original")  
+
 **Warped Image Before Cleaning and after Cleaning**  
+
 **okWarp Left Image is before clean and right image is after clean u = sqrt(x) , v = 0.5 * (1 + sin(y * 3.1415926536))**
+
 ![Alt text](images/warp1.png/?raw=true "original")  
+
 **normal Left Image is before clean and right image is after clean u = pow(x, 0.25) , v = pow(sin(3.14 * 0.5 * y), 2)**
+
 ![Alt text](images/warp2.png/?raw=true "original")  
 
 
